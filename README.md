@@ -1,1 +1,1 @@
-# TEMPERATURE-CONTROL-WITH-STM32F407-USING-STM32CubeIDE
+Temperature controlling is required in many places such as Food Industries, Hospitals etc. In this project can be very useful in understanding the basics, how you can control the temperature at your home. This project which can be used anywhere. DHT11 is a Temperature and humidity sensor which as the name implies is used to measure the atmospheric temperature. Here the Temperature controlled fan will act to the temperature changes. The 2 LEDs introduced in this project which indicates the temperature condition.
